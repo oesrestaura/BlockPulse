@@ -1,0 +1,1 @@
+Add role management for scalability (simplified)

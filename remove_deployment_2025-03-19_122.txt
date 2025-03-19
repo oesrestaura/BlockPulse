@@ -1,0 +1,1 @@
+Remove deployment process for synchronization (legacy)

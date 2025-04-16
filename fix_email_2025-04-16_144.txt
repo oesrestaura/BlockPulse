@@ -1,0 +1,1 @@
+Fix email verification for branch (major) - Implemented a new feature to enhance email verification.

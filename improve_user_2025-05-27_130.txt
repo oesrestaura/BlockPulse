@@ -1,0 +1,1 @@
+Improve user input for refactor (simplified) - Implemented a new feature to enhance user input.

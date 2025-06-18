@@ -1,0 +1,1 @@
+Develop role management for authentication (low-priority) - Implemented a new feature to enhance role management.

@@ -1,0 +1,1 @@
+Remove user authentication for endpoint (high-priority)

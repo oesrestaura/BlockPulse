@@ -1,0 +1,1 @@
+Resolve role management for optimization (easy) - Implemented a new feature to enhance role management.

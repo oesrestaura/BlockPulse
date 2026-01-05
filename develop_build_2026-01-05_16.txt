@@ -1,0 +1,1 @@
+Develop build pipeline for server (easy)

@@ -1,0 +1,1 @@
+Develop third-party authentication for synchronization (quick) - Implemented a new feature to enhance third-party authentication.
